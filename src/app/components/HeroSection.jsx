@@ -31,7 +31,7 @@ const HeroSection = () => {
                         />
                     </h1>
                     <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repudiandae mollitia oxer oxford mustard leaf
+                        "When a program works, it is beautiful. The art of programming is the skill of controlling complexity." 
                     </p>
                     <div>
                         <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white'>
