@@ -14,10 +14,10 @@ const EmailSection = () => {
           I'm actively exploring new opportunities, and you're welcome to reach out anytime. Whether you have questions or simply want to connect, I'll try my best to get back to you!
         </p>
         <div className="socials flex flex-row gap-2">
-          <Link href="https://github.com/Ahsan-Zaidi">
+          <Link href="https://github.com/Ahsan-Zaidi" target="_blank">
             <Image src={GithubIcon} alt="github" />
           </Link>
-          <Link href="https://www.linkedin.com/in/ahsan-zaidi-r/">
+          <Link href="https://www.linkedin.com/in/ahsan-zaidi-r/" target="_blank">
             <Image src={LinkedinIcon} alt="linkedin" />
           </Link>
         </div>

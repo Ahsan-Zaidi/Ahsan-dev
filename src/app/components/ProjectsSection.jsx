@@ -4,58 +4,40 @@ import ProjectCard from './ProjectCard';
 const projectsData = [
     {
       id: 1,
-      title: "React Portfolio Website",
-      description: "Project 1 description",
-      image: "/images/projects/1.png",
+      title: "Popshop",
+      description: "Ecommerce app: MERN",
+      image: "/images/projects/project1.jpg",
       tag: ["All", "Web"],
-      gitUrl: '/',
-      previewUrl: '/'
+      gitUrl: 'https://github.com/Ahsan-Zaidi/techshop',
+      previewUrl: 'https://popshop-6szd.onrender.com/'
     },
     {
       id: 2,
-      title: "Potography Portfolio Website",
-      description: "Project 2 description",
-      image: "/images/projects/2.png",
+      title: "Bookspot",
+      description: "Online library to find your favorite books: React Js",
+      image: "/images/projects/project2.jpg",
       tag: ["All", "Web"],
-      gitUrl: '/',
-      previewUrl: '/'
+      gitUrl: 'https://github.com/Ahsan-Zaidi/library',
+      previewUrl: 'https://ahsan-zaidi.github.io/library/'
     },
     {
       id: 3,
-      title: "E-commerce Application",
-      description: "Project 3 description",
-      image: "/images/projects/3.png",
+      title: "Get-up-Exercise",
+      description: "Find a workout plan for you: React Js",
+      image: "/images/projects/project3.jpg",
       tag: ["All", "Web"],
-      gitUrl: '/',
-      previewUrl: '/'
+      gitUrl: 'https://github.com/Ahsan-Zaidi/getup-exercise',
+      previewUrl: 'https://ahsan-zaidi.github.io/getup-exercise/'
     },
     {
       id: 4,
-      title: "Food Ordering Application",
-      description: "Project 4 description",
-      image: "/images/projects/4.png",
+      title: "Weather-app",
+      description: "Check the weather in your area: React Js",
+      image: "/images/projects/project4.jpg",
       tag: ["All", "Mobile"],
-      gitUrl: '/',
-      previewUrl: '/'
-    },
-    {
-      id: 5,
-      title: "React Firebase Template",
-      description: "Authentication and CRUD operations",
-      image: "/images/projects/5.png",
-      tag: ["All", "Web"],
-      gitUrl: '/',
-      previewUrl: '/'
-    },
-    {
-      id: 6,
-      title: "Full-stack Roadmap",
-      description: "Project 5 description",
-      image: "/images/projects/6.png",
-      tag: ["All", "Web"],
-      gitUrl: '/',
-      previewUrl: '/'
-    },
+      gitUrl: 'https://github.com/Ahsan-Zaidi/weather-app',
+      previewUrl: 'https://ahsan-zaidi.github.io/weather-app/'
+    }
 ];
 
 const ProjectsSection = () => {
