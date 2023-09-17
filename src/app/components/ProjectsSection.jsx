@@ -38,6 +38,15 @@ const projectsData = [
       tag: ["All", "Mobile"],
       gitUrl: 'https://github.com/Ahsan-Zaidi/weather-app',
       previewUrl: 'https://ahsan-zaidi.github.io/weather-app/'
+    },
+    {
+      id: 5,
+      title: "Github-Finder",
+      description: "Find github users by name: React Js",
+      image: "/images/projects/project5.jpg",
+      tag: ["All", "Mobile"],
+      gitUrl: 'https://github.com/Ahsan-Zaidi/github-finder',
+      previewUrl: 'https://github-finder-eight-theta.vercel.app/'
     }
 ];
 
