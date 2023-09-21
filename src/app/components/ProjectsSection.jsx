@@ -6,7 +6,7 @@ const projectsData = [
     {
       id: 1,
       title: "Popshop",
-      description: "Ecommerce app: MERN",
+      description: "MERN",
       image: "/images/projects/project1.jpg",
       tag: ["All", "Web"],
       gitUrl: 'https://github.com/Ahsan-Zaidi/techshop',
@@ -14,39 +14,48 @@ const projectsData = [
     },
     {
       id: 2,
-      title: "Bookspot",
-      description: "Online library to find your favorite books: React Js",
+      title: "Real Estate App",
+      description: "Firebase",
       image: "/images/projects/project2.jpg",
       tag: ["All", "Web"],
+      gitUrl: 'https://github.com/Ahsan-Zaidi/real-estate-app',
+      previewUrl: 'https://real-estate-app-theta-red.vercel.app/'
+    },
+    {
+      id: 3,
+      title: "Github Finder",
+      description: "React js/Api's",
+      image: "/images/projects/project3.jpg",
+      tag: ["All", "Web"],
+      gitUrl: 'https://github.com/Ahsan-Zaidi/github-finder',
+      previewUrl: 'https://github-finder-eight-theta.vercel.app/'
+    },
+    {
+      id: 4,
+      title: "Bookspot",
+      description: "React js/Api's",
+      image: "/images/projects/project4.jpg",
+      tag: ["All", "Mobile"],
       gitUrl: 'https://github.com/Ahsan-Zaidi/library',
       previewUrl: 'https://ahsan-zaidi.github.io/library/'
     },
     {
-      id: 3,
-      title: "Get-up-Exercise",
-      description: "Find a workout plan for you: React Js",
-      image: "/images/projects/project3.jpg",
-      tag: ["All", "Web"],
+      id: 5,
+      title: "Get-up Exercise",
+      description: "React js/Api's",
+      image: "/images/projects/project5.jpg",
+      tag: ["All", "Mobile"],
       gitUrl: 'https://github.com/Ahsan-Zaidi/getup-exercise',
       previewUrl: 'https://ahsan-zaidi.github.io/getup-exercise/'
     },
     {
-      id: 4,
-      title: "Weather-app",
-      description: "Check the weather in your area: React Js",
-      image: "/images/projects/project4.jpg",
+      id: 6,
+      title: "Weather App",
+      description: "React js/Api's",
+      image: "/images/projects/project6.jpg",
       tag: ["All", "Mobile"],
       gitUrl: 'https://github.com/Ahsan-Zaidi/weather-app',
       previewUrl: 'https://ahsan-zaidi.github.io/weather-app/'
-    },
-    {
-      id: 5,
-      title: "Github-Finder",
-      description: "Find github users by name: React Js",
-      image: "/images/projects/project5.jpg",
-      tag: ["All", "Mobile"],
-      gitUrl: 'https://github.com/Ahsan-Zaidi/github-finder',
-      previewUrl: 'https://github-finder-eight-theta.vercel.app/'
     }
 ];
 
