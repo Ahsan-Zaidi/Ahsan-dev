@@ -5,8 +5,8 @@ import ProjectCard from './ProjectCard';
 const projectsData = [
     {
       id: 1,
-      title: "Popshop",
-      description: "MERN",
+      title: "Popshop (MERN)",
+      description: "Ecommerce application to find your favorite electronics at an affordable price.",
       image: "/images/projects/project1.jpg",
       tag: ["All", "Web"],
       gitUrl: 'https://github.com/Ahsan-Zaidi/techshop',
@@ -14,8 +14,8 @@ const projectsData = [
     },
     {
       id: 2,
-      title: "Real Estate App",
-      description: "Firebase",
+      title: "Real Estate App (React/Firebase)",
+      description: "Search for a high-quality, luxurious home at an affordable price.",
       image: "/images/projects/project2.jpg",
       tag: ["All", "Web"],
       gitUrl: 'https://github.com/Ahsan-Zaidi/real-estate-app',
@@ -23,8 +23,8 @@ const projectsData = [
     },
     {
       id: 3,
-      title: "Github Finder",
-      description: "React js/Api's",
+      title: "Github Finder (React/Web-Api)",
+      description: "",
       image: "/images/projects/project3.jpg",
       tag: ["All", "Web"],
       gitUrl: 'https://github.com/Ahsan-Zaidi/github-finder',
@@ -32,7 +32,7 @@ const projectsData = [
     },
     {
       id: 4,
-      title: "Bookspot",
+      title: "Bookspot (React/Web-Api)",
       description: "React js/Api's",
       image: "/images/projects/project4.jpg",
       tag: ["All", "Mobile"],
@@ -41,7 +41,7 @@ const projectsData = [
     },
     {
       id: 5,
-      title: "Get-up Exercise",
+      title: "Get Up Exercise (React/Web-Api)",
       description: "React js/Api's",
       image: "/images/projects/project5.jpg",
       tag: ["All", "Mobile"],
@@ -50,7 +50,7 @@ const projectsData = [
     },
     {
       id: 6,
-      title: "Weather App",
+      title: "Weather App (React/Web-Api)",
       description: "React js/Api's",
       image: "/images/projects/project6.jpg",
       tag: ["All", "Mobile"],
