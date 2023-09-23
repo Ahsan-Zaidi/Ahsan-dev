@@ -12,9 +12,9 @@ const TAB_DATA = [
                 <li>HTML</li>
                 <li>CSS/SCSS</li>
                 <li>JavaScript</li>
-                <li>ReactJs</li>
-                <li>NextJs</li>
-                <li>NodeJs</li>
+                <li>React Js</li>
+                <li>Next Js</li>
+                <li>Node Js</li>
                 <li>Firebase</li>
                 <li>SQL/NoSQL</li>
             </ul>
